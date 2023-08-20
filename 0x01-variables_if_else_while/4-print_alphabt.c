@@ -10,7 +10,7 @@ int main(void)
 char letter;
 for (letter = 97; letter <= 122; letter++)
 {
-if (letter != 71 && letter != 65)
+if (letter != 113 && letter != 101)
 {
 putchar(letter);
 }
