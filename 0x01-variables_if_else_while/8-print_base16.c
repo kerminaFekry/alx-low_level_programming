@@ -19,4 +19,4 @@ putchar (letter);
 }
 putchar (10);
 return (0);
-} 
+}
