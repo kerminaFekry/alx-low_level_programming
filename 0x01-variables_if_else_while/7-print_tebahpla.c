@@ -11,6 +11,6 @@ for (letter = 122; letter >= 97; letter--)
 {
 putchar (letter);
 }
-putchar(10);
-return(0);
+putchar (10);
+return (0);
 }
