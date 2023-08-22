@@ -10,7 +10,7 @@ int _atoi(char *s)
 int sign = 1;
 int result = 0;
 
-if (*s == -)
+if (*s == 45)
 {
 sign = -1;
 s++;
