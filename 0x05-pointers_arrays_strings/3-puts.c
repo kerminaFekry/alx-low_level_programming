@@ -7,5 +7,5 @@ putchar(*str);
 str++;
 }
 
-putchar(n);
+putchar(10);
 }
