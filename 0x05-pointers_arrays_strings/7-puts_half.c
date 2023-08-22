@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+
 /**
  * puts_half - Prints half of a string, followed by a new line.
  * @str: Pointer to a string.
