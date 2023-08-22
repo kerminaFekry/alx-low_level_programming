@@ -1,4 +1,4 @@
-#include <stdio.h>\
+#include <stdio.h>
 /**
  * _strlen - Calculates the length of a string.
  * @s: Pointer to a string.
@@ -15,5 +15,5 @@ length++;
 s++;
 }
 
-return length;
+return (length);
 }
