@@ -20,7 +20,7 @@ while (*s != 0)
 {
 if (*s >= 0 && *s <= 9)
 {
-result = result *10 + (*s - 0);
+result = result * 10 + (*s - 0);
 }
 else
 {
@@ -30,5 +30,5 @@ break;
 s++;
 }
 
-return (sign *result) ;
+return (sign *result);
 }
