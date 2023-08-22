@@ -19,5 +19,5 @@ putchar(str[start]);
 start++;
 }
 
-putchar(n);
+putchar(10);
 }
