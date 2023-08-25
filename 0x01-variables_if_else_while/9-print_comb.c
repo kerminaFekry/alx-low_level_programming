@@ -1,4 +1,4 @@
-#include <stdio.h>                                                     
+#include <stdio.h>
 /**
  * main - Entry point of the program
  *
@@ -6,14 +6,14 @@
  */
 int main(void) 
 {
-int num1 ;
+int num1;
 for (num1 = 48; num1 < 58; num1++) 
 {
 
 putchar(num1);
 if (num1 != 57)
 {
-putchar(44) ;
+putchar(44);
 putchar(32);
 }
 }
