@@ -13,8 +13,8 @@ for (num1 = 48; num1 < 58; num1++)
 putchar(num1);
 if (num1 != 57)
 {
-putchar(32) ;
-putchar(44);
+putchar(44) ;
+putchar(32);
 }
 }
 putchar(10);
