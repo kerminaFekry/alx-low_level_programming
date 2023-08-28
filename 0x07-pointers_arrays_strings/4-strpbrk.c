@@ -1,4 +1,4 @@
-/**                                                                       
+/**
  * _strpbrk - Searches a string for any of a set of bytes.
  * @s: Pointer to the string to be searched.
  * @accept: Pointer to the string containing the bytes to match.
@@ -15,7 +15,7 @@ char *ptr = accept;
 while (*ptr)
 {
 if (*ptr == *s)
-return s;
+return (s);
 ptr++;
 }
 s++;
