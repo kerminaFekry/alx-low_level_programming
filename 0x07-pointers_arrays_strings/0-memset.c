@@ -14,5 +14,5 @@ char *ptr = s;
 while (n--)
 *ptr++ = b;
 
-return s;
+return (s);
 }
